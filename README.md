@@ -48,6 +48,8 @@
 - [Операции над массивами NumPy](./lessons/sem_02/lesson_03/);
 - [Агрегирование и сортировка](./lessons/sem_02/lesson_04/);
 - [Линейная алгебра в NumPy](./lessons/sem_02/lesson_05/);
+- [Введение в Matplotlib](./lessons/sem_02/lesson_06/);
+- [Диаграммы](./lessons/sem_02/lesson_07/);
 
 **Домашние работы:**
 
